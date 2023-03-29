@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4d5ea3-30fc-4c65-ab07-ac65c1825f4b" name="Changes" comment="Início do projeto.">
+    <list default="true" id="ae4d5ea3-30fc-4c65-ab07-ac65c1825f4b" name="Changes" comment="Implementada multithreading e descobrimento de dispositivos em redes públicas.">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/net-graph.iml" beforeDir="false" afterPath="$PROJECT_DIR$/net-graph.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ListaDispositivosRede.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListaDispositivosRede.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ListaDispositivosRede.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ListaDispositivosRede.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +83,7 @@
       <updated>1680045106223</updated>
       <workItem from="1680045107672" duration="928000" />
       <workItem from="1680048196511" duration="967000" />
-      <workItem from="1680049231696" duration="4062000" />
+      <workItem from="1680049231696" duration="4460000" />
     </task>
     <task id="LOCAL-00001" summary="Início do projeto.">
       <created>1680048809407</created>
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680048833088</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implementada multithreading e descobrimento de dispositivos em redes públicas.">
+      <created>1680053691644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680053691644</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Início do projeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Início do projeto." />
+    <MESSAGE value="Implementada multithreading e descobrimento de dispositivos em redes públicas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementada multithreading e descobrimento de dispositivos em redes públicas." />
   </component>
 </project>
